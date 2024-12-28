@@ -1,0 +1,7 @@
+jsonlib-python3  # For handling JSON data
+os-detect        # For operating system detection
+openai-whisper   # Whisper library for speech recognition
+gpt4all==0.3.0   # Adjust the version if needed for compatibility
+stomp.py         # For STOMP protocol support
+threading2       # Threading utilities
+socket3          # Networking utilities
